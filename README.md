@@ -24,7 +24,7 @@ Solve the consumption-savings problem with a borrowing constraint. This notebook
 Solve variants of the consumption-savings problem, varying the dimension for the
 state vector and the shock vector. This notebook creates:
 * Figure 4: Euler_error_time_TI_&_MC_separated_linear_2.png
-* Figure 5: panel A: AIO_versus_MC_several_runs_2_bc0.0.png
+* Figure 5: Euler_error_time_TI_&_MC_separated_large_scale.png
 
 ## References
 * Pascal, Julien, Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator (June 12, 2023). BCL Working Papers n°172., Available at SSRN: https://ssrn.com/abstract=4476122 or http://dx.doi.org/10.2139/ssrn.4476122
