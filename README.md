@@ -30,4 +30,8 @@ state vector and the shock vector. This notebook creates:
 * Pascal, Julien, Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator (June 12, 2023). BCL Working Papers n°172., Available at SSRN: https://ssrn.com/abstract=4476122 or http://dx.doi.org/10.2139/ssrn.4476122
 
 ### Computational details
+#### Folders
+Calculations performed with Google Colab. See the results of "cpuinfo" in the notebooks
+for details on the machines. 
+#### Folders
 All calculations performed on the same laptop: Intel® Core™ i7-8850H CPU @ 2.60GHz × 12, Ubuntu 20.04.6 LTS. Python 3.8.10.
