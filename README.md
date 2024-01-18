@@ -11,7 +11,13 @@ Notebooks (`BM_1.ipynb`, ..., `BM_8.ipynb`) were executed on Google Colab. Noteb
 
 To create Figures 1 and 2 (saved in the folder `output`), use the notebook `plot_BM.ipynb`. Functions are stored in the notebook `functions_BM.ipynb`.
 
+<img src="https://github.com/JulienPascal/bc-MC_Operator/blob/Revision_1/6.Brock_Mirman_Colab/output/changing_M_lr_0.005_optim_Adam_one_page_zoom_True.png" width="200" height="200">
+
+<img src="https://github.com/JulienPascal/bc-MC_Operator/blob/Revision_1/6.Brock_Mirman_Colab/output/opt_N_lr_0.005_optim_Adam_one_page_zoom_True.png" width="200" height="200">
+
+
 The notebook `plot_BM.ipynb` also creates Figures 8 - 21 in the online Appendix.
+
 
 ### Folder `7.model_with_bc_2`
 Folder to solve the consumption-savings problem with a borrowing constraint.
@@ -25,6 +31,11 @@ Notebooks (`bc-MC-consumption-savings_bc_hyperparams_1.ipynb`, ..., `bc-MC-consu
 
 To create Figures 4 and 5 (saved in the folder `output`), use the notebook `plot_bc.ipynb`. Functions are stored in the notebook `functions-bc-MC-consumption-savings.ipynb`.
 
+<img src="https://github.com/JulienPascal/bc-MC_Operator/blob/Revision_1/8.model_with_bc_2_Colab/output/model_bc_changing_M_lr_0.001_optim_Adam_one_page_zoom_True.png" width="200" height="200">
+
+<img src="https://github.com/JulienPascal/bc-MC_Operator/blob/Revision_1/8.model_with_bc_2_Colab/output/model_bc_opt_N_lr_0.001_optim_Adam_one_page_zoom_True.png" width="200" height="200">
+
+
 The notebook `plot_bc.ipynb` also creates Figures 22 - 35 in the online Appendix.
 
 ### Folder `9.large_scale_model_2`
@@ -32,6 +43,8 @@ Folder to solve variants of the consumption-savings problem, varying the dimensi
 Compare the bc-MC operator to the Time Iteration (TI) algorithm with a dense grid, a sparse grid, as well as an adaptive sparse grid.
 
 The notebook `bc-MC-consumption-savings_large_scale_1.ipynb` creates Figures 6 and 7.
+
+<img src="https://github.com/JulienPascal/bc-MC_Operator/blob/Revision_1/9.large_scale_model_2/output/Euler_error_time_TI_%26_MC_separated_linear_3.png" width="200" height="200">
 
 ## References
 * Pascal, Julien, Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator (June 12, 2023). BCL Working Papers n°172., Available at SSRN: [https://ssrn.com/abstract=4476122](https://ssrn.com/abstract=4476122) or [http://dx.doi.org/10.2139/ssrn.4476122](http://dx.doi.org/10.2139/ssrn.4476122)
