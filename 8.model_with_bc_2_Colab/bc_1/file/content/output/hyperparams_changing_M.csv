@@ -1,0 +1,17 @@
+bc,optim,lr,N,M,T,N_star
+0.0,Adam,0.05,2,1,1,False
+0.0,Adam,0.05,2,10,10,False
+0.0,Adam,0.05,2,100,100,False
+0.0,Adam,0.05,2,1000,1000,False
+0.0,Adam,0.01,2,1,1,False
+0.0,Adam,0.01,2,10,10,False
+0.0,Adam,0.01,2,100,100,False
+0.0,Adam,0.01,2,1000,1000,False
+0.0,Adam,0.001,2,1,1,False
+0.0,Adam,0.001,2,10,10,False
+0.0,Adam,0.001,2,100,100,False
+0.0,Adam,0.001,2,1000,1000,False
+0.0,Adam,0.0005,2,1,1,False
+0.0,Adam,0.0005,2,10,10,False
+0.0,Adam,0.0005,2,100,100,False
+0.0,Adam,0.0005,2,1000,1000,False
