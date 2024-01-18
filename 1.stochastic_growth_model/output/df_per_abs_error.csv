@@ -1,3 +1,0 @@
-estimator,M,N,mean % abs. error,median % abs. error,max % abs. error,std. % abs. error
-bc-MC,100,2,5.7158527e-06,7.345572e-06,1.8523333e-05,5.2679075e-06
-bc-MC,2,100,0.0,0.0,0.0,0.0
