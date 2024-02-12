@@ -46,6 +46,12 @@ The notebook `bc-MC-consumption-savings_large_scale_1.ipynb` creates Figures 6 a
 
 <img src="https://github.com/JulienPascal/bc-MC_Operator/blob/Revision_1/9.large_scale_model_2/output/Euler_error_time_TI_%26_MC_separated_linear_3.png" width="200" height="200">
 
+
+### Folder `10.OLG_model`
+NOT in the paper. The notebook `OLG.ipynb` shows how the bc-MC operator can be
+used to approximate global solutions of economic models with overlapping generations (OLG).
+
+
 ## References
 * Pascal, Julien, Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator (June 12, 2023). BCL Working Papers n°172., Available at SSRN: [https://ssrn.com/abstract=4476122](https://ssrn.com/abstract=4476122) or [http://dx.doi.org/10.2139/ssrn.4476122](http://dx.doi.org/10.2139/ssrn.4476122)
 
@@ -55,5 +61,5 @@ The notebook `bc-MC-consumption-savings_large_scale_1.ipynb` creates Figures 6 a
 #### Folders `6.Brock_Mirman_Colab` and `8.model_with_bc_2_Colab`
 Calculations performed with Google Colab. See the results of "cpuinfo" in the notebooks for details on the machines.
 
-#### Folders `7.model_with_bc_2` and `9.large_scale_model_2`
+#### Folders `7.model_with_bc_2`, `9.large_scale_model_2` and `10.OLG_model`
 All calculations performed on the same laptop: Intel® Core™ i7-8850H CPU @ 2.60GHz × 12, Ubuntu 20.04.6 LTS. Python 3.8.10.
