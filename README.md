@@ -1,7 +1,12 @@
-# bc-MC Operator
+# The bias-corrected Monte Carlo operator
 ## Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator
-This repository contains the code for the paper "Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator", available here:
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476122](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476122)
+This repository contains the code for the paper "Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator", available here in the Journal of Economic Dynamics and Control:
+
+* https://www.sciencedirect.com/science/article/abs/pii/S0165188924000459
+
+and here is a pre-print version:
+* [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476122](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476122)
+
 
 ## Folders and Files
 ### Folder `6.Brock_Mirman_Colab`
@@ -53,8 +58,25 @@ used to approximate global solutions of economic models with overlapping generat
 
 
 ## References
-* Pascal, Julien, Artificial Neural Networks to Solve Dynamic Programming Problems: A Bias-Corrected Monte Carlo Operator (June 12, 2023). BCL Working Papers n°172., Available at SSRN: [https://ssrn.com/abstract=4476122](https://ssrn.com/abstract=4476122) or [http://dx.doi.org/10.2139/ssrn.4476122](http://dx.doi.org/10.2139/ssrn.4476122)
+* Julien Pascal, Artificial neural networks to solve dynamic programming problems: A bias-corrected Monte Carlo operator,
+Journal of Economic Dynamics and Control,
+Volume 162, 2024, 104853, ISSN 0165-1889,
+https://doi.org/10.1016/j.jedc.2024.104853. (https://www.sciencedirect.com/science/article/pii/S0165188924000459)
 
+To cite this work:
+```
+@article{PASCAL2024104853,
+title = {Artificial neural networks to solve dynamic programming problems: A bias-corrected Monte Carlo operator},
+journal = {Journal of Economic Dynamics and Control},
+volume = {162},
+pages = {104853},
+year = {2024},
+issn = {0165-1889},
+doi = {https://doi.org/10.1016/j.jedc.2024.104853},
+url = {https://www.sciencedirect.com/science/article/pii/S0165188924000459},
+author = {Julien Pascal}
+}
+```
 ---
 
 ### Computational details
